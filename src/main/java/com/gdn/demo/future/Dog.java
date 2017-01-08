@@ -1,5 +1,8 @@
 package com.gdn.demo.future;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Dog extends Animal {
 
 	@Override
